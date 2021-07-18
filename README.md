@@ -1,2 +1,1 @@
-# rsschool
-Description
+# My CV
